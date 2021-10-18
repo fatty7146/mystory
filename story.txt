@@ -1,3 +1,6 @@
 *characters*
-john raj
+john 
+raj
+and dog
 they are best friends
+and dog is their pet
